@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "name": "Crowbar",
+        "img": "https://seiyria.com/gameicons-font/svg/crowbar.svg",
+        "desc": "This is a useful tool for entering and combat"
+    },
+    {
+        "id": "2",
+        "name": "Food",
+        "img": "https://seiyria.com/gameicons-font/svg/crowbar.svg",
+        "desc": "It tastes so good, makes you feel better with every bite."
+    },
+    {
+        "id": "3",
+        "name": "FirstAid",
+        "img": "https://seiyria.com/gameicons-font/svg/crowbar.svg",
+        "desc": "It puts the aid on the skin and it gets healthy again."
+    },
+    {
+        "id": "5",
+        "name": "Gun",
+        "img": "https://seiyria.com/gameicons-font/svg/crowbar.svg",
+        "desc": "Boom boom baby."
+    },
+    {
+        "id": "6",
+        "name": "Knife",
+        "img": "https://seiyria.com/gameicons-font/svg/switchblade.svg",
+        "desc": "Stick 'em with the pointy end."
+    },
+    {
+        "id": "7",
+        "name": "Josephine",
+        "img": "https://seiyria.com/gameicons-font/svg/switchblade.svg",
+        "desc": "Cool gal, could come in handy later."
+    },
+    {
+        "id": "8",
+        "name": "Rusty",
+        "img": "https://seiyria.com/gameicons-font/svg/switchblade.svg",
+        "desc": "Cool dude, can sacrifice him later."
+    },
+    {
+        "id": "9",
+        "name": "Ginger",
+        "img": "https://seiyria.com/gameicons-font/svg/switchblade.svg",
+        "desc": "Does not have a soul."
+    }
+]

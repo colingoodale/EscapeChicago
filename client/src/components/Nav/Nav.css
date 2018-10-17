@@ -1,0 +1,12 @@
+nav {
+    position: center;
+    text-align: center;
+    display: inline-block;
+  }
+  #help {
+    display: flex;
+    justify-content: center;
+    font-size: 100px;
+    font-family: 'Permanent Marker', cursive;
+    color: white;
+  }

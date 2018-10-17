@@ -1,0 +1,11 @@
+button {
+  background: red;
+  color: white;
+  width: 90%;
+}
+.border-button {
+  border: solid 1.5px rgb(26, 18, 20);
+  transition: border-width 0.4s linear;
+}
+
+.border-button:hover { border-width: 9px; }
